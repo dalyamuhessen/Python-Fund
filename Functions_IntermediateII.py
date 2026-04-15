@@ -18,7 +18,8 @@ print(sports_directory)
 
 z[0]['y'] = 30
 print(z)  
-
+name= sports_directory['soccer'][1]
+print(name)
 #//////////////////////////////////////////////////////////////////////// 
 students = [
     {'first_name': 'Michael', 'last_name': 'Jordan'},
